@@ -1,0 +1,1 @@
+import Link from 'next/link'; export default function Home(){ return (<div className='p-8'><p>Open <Link href='/value-apps' className='underline text-blue-600'>Diversicom Value Apps</Link>.</p></div>) }
